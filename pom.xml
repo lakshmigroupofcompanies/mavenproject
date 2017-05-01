@@ -119,6 +119,16 @@
 			<artifactId>servlet-api</artifactId>
 			<version>3.0-alpha-1</version>
 		</dependency>
+		<dependency>
+    <groupId>org.springframework.integration</groupId>
+    <artifactId>spring-integration-splunk</artifactId>
+    <version>1.1.0.RELEASE</version>
+</dependency>
+		<dependency>
+    <groupId>org.jacoco</groupId>
+    <artifactId>jacoco-maven-plugin</artifactId>
+    <version>0.7.9</version>
+</dependency>
 
 	</dependencies>
 	
